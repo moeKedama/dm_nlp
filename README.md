@@ -1,6 +1,13 @@
 # dm_nlp
 
-使用中文谣言数据集(https://github.com/thunlp/Chinese_Rumor_Dataset)，文件过大请自行到原项目下载，之后解压到根目录即可使用
+使用中文谣言数据集(https://github.com/thunlp/Chinese_Rumor_Dataset)
+
+文件过大请自行到原项目下载，之后解压到根目录即可使用
+
+# 环境
+
+Python3
+sklearn
 
 # 中文谣言数据
 
