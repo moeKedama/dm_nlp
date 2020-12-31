@@ -1,0 +1,7 @@
+,clf,best_score,best_params
+0,DecisionTreeClassifier,0.6407655652720322,{'max_depth': 9}
+1,KNeighborsClassifier,0.708408825120874,"{'algorithm': 'brute', 'n_neighbors': 2}"
+2,SVC,0.8735674015115812,{'C': 1.5}
+3,LogisticRegression,0.8765242359183816,{'C': 0.5}
+4,RandomForestClassifier,0.6720837478836119,"{'max_depth': 9, 'n_estimators': 7}"
+5,MultinomialNB,0.8871637779057793,{'alpha': 0.1}
